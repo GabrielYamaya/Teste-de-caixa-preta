@@ -29,8 +29,7 @@ Teste-de-caixa-preta
   No arquivo "Plano_de_teste.xlsx" estão registrados os testes feitos.
 
 # Registro de teste
-  [Link do vídeo de teste](http://exemplo.com/)
-  Não finalizado
+  [Link do vídeo de teste](https://youtu.be/7DFq8K1UQ9s)
 
 # Autor:
   Nome: Gabriel Queiroz Pereira Yamaya;
