@@ -32,6 +32,6 @@ Teste-de-caixa-preta
   [Link do vídeo de teste](https://youtu.be/7DFq8K1UQ9s)
 
 # Autor:
-  Nome: Gabriel Queiroz Pereira Yamaya;
-  Email: yamaya.gabriel@gmail.com;
-  RA: 212065;
+  - Nome: Gabriel Queiroz Pereira Yamaya;
+  - Email: yamaya.gabriel@gmail.com;
+  - RA: 212065;
